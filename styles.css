@@ -24,9 +24,9 @@
     border: 2px red solid;
     width: 80px;
 } */
- .reset text{
+ /* .reset text{
     font-family: "Lucida Console", Courier, monospace;
-  }
+  } */
 .item{
     width: 200px;
     display: flex;
